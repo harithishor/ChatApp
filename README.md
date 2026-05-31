@@ -15,3 +15,7 @@
 - Real time messaging between multiple users
 - Chat history saved in SQLite database
 - Clean modern UI
+
+## Screenshots
+![Screenshot 1](screenshots/chat1.png)
+![Screenshot 2](screenshots/chat2.png)
