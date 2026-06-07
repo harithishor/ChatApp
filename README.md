@@ -7,7 +7,7 @@
 
 ## How to Run
 1. `./server` — Start C++ server
-2. `python app.py` — Start WebSocket bridge
+2. `python3 app.py` — Start WebSocket bridge
 3. `python3 -m http.server 3000` — Start HTTP server
 4. Open `http://localhost:3000/templates/index.html`
 
